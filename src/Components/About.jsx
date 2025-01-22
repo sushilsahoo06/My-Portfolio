@@ -14,8 +14,7 @@ const About = ({bgcolor,darkmode}) => {
           <p className="my-4  lg:text-nowrap "
            style={{ color: `${bgcolor==="white" ? "#000000" : "#A6A6A6"}`}}
           >
-            I have Completed My <span className="font-bold">B.Tech Degree </span>From Ganga institute of technology and management  <br /> Engineering College, Kabalana.
-            My Specilization in <span className="font-bold">Computer Science Engineering (CSE)</span>
+            Greetings! I'm  <span className="font-bold">Sushil sahoo</span>,a Civil Engineering student at <span className="font-bold">Biju Patnaik University of Technology,</span><br /> <span className="font-bold">Rourkela</span>  (CGPA 8.5+) balancing my academic and technical growth , with a newfound passion for<br /> both front-end and back-end development. As a <span className="font-bold">Full Stack Developer</span>, I’m immersing myself in the<br/>  intricacies of coding, software architecture, and building scalable web applications.
              
             <br />{" "}
           </p>
